@@ -1,0 +1,52 @@
+Python Data Types - Simple & Easy Explanation
+
+1. Integer (int) - Whole numbers without decimals
+   Example:
+   age = 25
+   price = -100
+   count = 0
+
+2. Float (float) - Numbers with decimals
+   Example:
+   pi = 3.14
+   weight = 55.5
+   temperature = -10.2
+
+3. String (str) - Text values
+   Example:
+   name = "Ali"
+   city = 'Karachi'
+   message = "Hello, Python!"
+
+4. Boolean (bool) - True or False values
+   Example:
+   is_raining = True
+   is_sunny = False
+
+5. List (list) - Multiple values stored together (can be changed)
+   Example:
+   numbers = [1, 2, 3, 4, 5]
+   fruits = ["apple", "banana", "cherry"]
+
+6. Tuple (tuple) - Like a list but cannot be changed
+   Example:
+   colors = ("red", "green", "blue")
+   dimensions = (1920, 1080)
+
+7. Dictionary (dict) - Key-Value pairs
+   Example:
+   student = {"name": "Ali", "age": 20, "city": "Lahore"}
+
+8. Set (set) - Unique values only
+   Example:
+   unique_numbers = {1, 2, 3, 4, 5}
+
+Bonus: Check variable type using `type()`
+Example:
+x = 10
+print(type(x))  # Output: <class 'int'>
+
+y = "Hello"
+print(type(y))  # Output: <class 'str'>
+
+Happy Coding! 😊
